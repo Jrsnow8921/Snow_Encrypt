@@ -1,0 +1,4 @@
+﻿  encrypt_copy.cpp
+  encrypt_copy.obj : /DEBUG:FASTLINK is not supported when managed code is present; restarting link with /DEBUG:FULL
+  SnowEncrypt.vcxproj -> c:\users\jsnow\documents\visual studio 2015\Projects\SnowEncrypt\x64\Debug\SnowEncrypt.exe
+  SnowEncrypt.vcxproj -> c:\users\jsnow\documents\visual studio 2015\Projects\SnowEncrypt\x64\Debug\SnowEncrypt.pdb (Partial PDB)
