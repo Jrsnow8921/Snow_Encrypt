@@ -1,4 +1,12 @@
 ﻿  encrypt_copy.cpp
+  main.cpp
+  s_encrypt.cpp
+s_encrypt.cpp(114): warning C4267: 'argument': conversion from 'size_t' to 'MD5::size_type', possible loss of data
+s_encrypt.cpp(342): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\stdio.h(1769): note: see declaration of 'sprintf'
+  Generating Code...
+c:\users\justi\desktop\snow_encrypt\snowencrypt\s_encrypt.cpp(353): warning C4717: 'operator<<': recursive on all control paths, function will cause runtime stack overflow
+  .NETFramework,Version=v4.5.2.AssemblyAttributes.cpp
   encrypt_copy.obj : /DEBUG:FASTLINK is not supported when managed code is present; restarting link with /DEBUG:FULL
-  SnowEncrypt.vcxproj -> c:\users\jsnow\documents\visual studio 2015\Projects\SnowEncrypt\x64\Debug\SnowEncrypt.exe
-  SnowEncrypt.vcxproj -> c:\users\jsnow\documents\visual studio 2015\Projects\SnowEncrypt\x64\Debug\SnowEncrypt.pdb (Partial PDB)
+  SnowEncrypt.vcxproj -> C:\Users\justi\Desktop\Snow_Encrypt\x64\Debug\SnowEncrypt.exe
+  SnowEncrypt.vcxproj -> C:\Users\justi\Desktop\Snow_Encrypt\x64\Debug\SnowEncrypt.pdb (Partial PDB)

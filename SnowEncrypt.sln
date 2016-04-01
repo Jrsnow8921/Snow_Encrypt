@@ -5,7 +5,19 @@ VisualStudioVersion = 14.0.24720.0
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "SnowEncrypt", "SnowEncrypt\SnowEncrypt.vcxproj", "{C794D2E5-B058-4446-BBF8-5383F95C1D87}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{C27B535D-4CC1-464F-BB39-C24F99A1BA6E}"
+	ProjectSection(SolutionItems) = preProject
+		Performance1.psess = Performance1.psess
+		Performance2.psess = Performance2.psess
+		Performance3.psess = Performance3.psess
+		Performance4.psess = Performance4.psess
+		Performance5.psess = Performance5.psess
+	EndProjectSection
+EndProject
 Global
+	GlobalSection(Performance) = preSolution
+		HasPerformanceSessions = true
+	EndGlobalSection
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
 		Debug|x86 = Debug|x86
@@ -15,12 +27,15 @@ Global
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
 		{C794D2E5-B058-4446-BBF8-5383F95C1D87}.Debug|x64.ActiveCfg = Debug|x64
 		{C794D2E5-B058-4446-BBF8-5383F95C1D87}.Debug|x64.Build.0 = Debug|x64
+		{C794D2E5-B058-4446-BBF8-5383F95C1D87}.Debug|x64.Deploy.0 = Debug|x64
 		{C794D2E5-B058-4446-BBF8-5383F95C1D87}.Debug|x86.ActiveCfg = Debug|Win32
 		{C794D2E5-B058-4446-BBF8-5383F95C1D87}.Debug|x86.Build.0 = Debug|Win32
 		{C794D2E5-B058-4446-BBF8-5383F95C1D87}.Release|x64.ActiveCfg = Release|x64
 		{C794D2E5-B058-4446-BBF8-5383F95C1D87}.Release|x64.Build.0 = Release|x64
+		{C794D2E5-B058-4446-BBF8-5383F95C1D87}.Release|x64.Deploy.0 = Release|x64
 		{C794D2E5-B058-4446-BBF8-5383F95C1D87}.Release|x86.ActiveCfg = Release|Win32
 		{C794D2E5-B058-4446-BBF8-5383F95C1D87}.Release|x86.Build.0 = Release|Win32
+		{C794D2E5-B058-4446-BBF8-5383F95C1D87}.Release|x86.Deploy.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
